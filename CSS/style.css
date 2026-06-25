@@ -14,10 +14,10 @@ header {
     height: 60px;
     display: flex;
     justify-content: space-between;
-    background-color: rgba(255,255,255,0.15);
+    background-color: rgba(255, 255, 255, 0.15);
     border-width: 1px;
     border-style: solid;
-    botder-color: rgba(255,255,255,0.25);
+    botder-color: rgba(255, 255, 255, 0.25);
     margin-bottom: 20px; 
     position: sticky;
     top: 0;
